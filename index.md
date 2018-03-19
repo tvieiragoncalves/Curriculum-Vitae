@@ -1,27 +1,24 @@
-## Welcome to GitHub Pages
+## Experiência Profissional
 
-You can use the [editor on GitHub](https://github.com/tvieiragoncalves/teste/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Psicólogo Estagiário na Liga Portuguesa Contra o Cancro - Núcleo Regional do Norte
+•Psicoterapia individual autónoma realizada junto de doentes oncológicos,sobreviventes e seus familiares
+•Colaboração assistencial, com psicólogos sénior, no seguimento de utentes do serviço
+•Redacção de relatórios de caso, histórias clínicas e formulações adaptadas aos casos seguidos 
+Para saber mais sobre a Liga e a Unidade de Psico-Oncologia, visite o [site](https://www.ligacontracancro.pt/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research Assistant no Proaction Lab
+•Auxílio no desenvolvimento de uma investigação acerca da neuroplasticidade no cortex auditivo em surdos congénitos
+•Assistência e aplicação de técnicas de neuromodulação, nomeadamente TMS (estimulação magnética transcranial)
+•Redacção de relatórios temáticos e breves formações em Matlab e Brainvoyager
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Prémios
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**3 % melhores estudantes da Universidade de Coimbra - 2015-2016** [Link](https://www.uc.pt/academicos/premios_bolsas/3_melhores) and ![Image](https://www.uc.pt/identidadevisual/jpg/FPCEUC.jpg)
+**3 % melhores estudantes da Universidade de Coimbra - 2014-2015** [Link](https://www.uc.pt/academicos/premios_bolsas/3_melhores) and ![Image](https://www.uc.pt/identidadevisual/jpg/FPCEUC.jpg)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
