@@ -1,19 +1,37 @@
+## Welcome to GitHub Pages
 
-Psicólogo Estagiário na Liga Portuguesa Contra o Cancro - Núcleo Regional do Norte
-Set -2016 - Jun 2017
+You can use the [editor on GitHub](https://github.com/tvieiragoncalves/teste/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-•Psicoterapia individual autónoma realizada junto de doentes oncológicos,sobreviventes e seus familiares
-•Colaboração assistencial, com psicólogos sénior, no seguimento de utentes do serviço
-•Redacção de relatórios de caso, histórias clínicas e formulações adaptadas aos casos seguidos
-Research Assistant
-Mar 2012 - Dec 2014
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-• Auxílio no desenvolvimento de uma investigação acerca da neuroplasticidade no cortex auditivo em surdos congénitos
-• Assistência e aplicação de técnicas de neuromodulação, nomeadamente TMS (estimulação magnética transcranial)
-• Redacção de relatórios temáticos e breves formações em Matlab e Brainvoyager
-UNIEC - HUC
-2014 - 2014
+### Markdown
 
-Mini Fellowship
-• Formação em técnicas de estimulação cerebral não invasiva.
-• Workshops práticos sobre TMS, estimulação magnética transcranial 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tvieiragoncalves/teste/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
