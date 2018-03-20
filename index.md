@@ -39,8 +39,8 @@ Curso de Psico-oncologia
 ## Prémios
 ```markdown
 
-**3 % melhores estudantes da Universidade de Coimbra - 2015-2016** 
-**3 % melhores estudantes da Universidade de Coimbra - 2014-2015** 
+3 % melhores estudantes da Universidade de Coimbra - 2015-2016
+3 % melhores estudantes da Universidade de Coimbra - 2014-2015
 
 
 ```
