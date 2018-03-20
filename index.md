@@ -61,3 +61,4 @@ Endereço:
 
 Telemóvel: (+351) 913008460 |[tvieiragoncalves@gmail.com](mailto:tvieiragoncalves@gmail.com) | [LinkedIn](https://pt.linkedin.com/in/tvieiragoncalves)
 
+{% feed_meta %}
