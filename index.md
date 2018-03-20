@@ -6,7 +6,7 @@
 •Redacção de relatórios de caso, histórias clínicas e formulações adaptadas aos casos seguidos 
 Para saber mais sobre a Liga e a Unidade de Psico-Oncologia, visite o [site](https://www.ligacontracancro.pt/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Research Assistant no Proaction Lab
 •Auxílio no desenvolvimento de uma investigação acerca da neuroplasticidade no cortex auditivo em surdos congénitos
