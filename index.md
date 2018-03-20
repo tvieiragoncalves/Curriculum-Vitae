@@ -6,6 +6,7 @@
 •Colaboração assistencial, com psicólogos sénior, no seguimento de utentes do serviço
 
 •Redacção de relatórios de caso, histórias clínicas e formulações adaptadas aos casos seguidos 
+
 Para saber mais sobre a Liga e a Unidade de Psico-Oncologia, visite o [site](https://www.ligacontracancro.pt/) 
 
 
@@ -55,7 +56,8 @@ Para mais informaçes veja o meu [curriculum vitae](https://github.com/tvieirago
 
 ## Contacto
 Endereço:
+
 4250-015, Rua Adelaide Estrada No 182 5A Urbanização Cooperativa da Prelada, Porto ,Portugal
 
-Telemóvel: (+351) 913008460 |  [tvieiragoncalves@gmail.com](mailto:tvieiragoncalves@gmail.com) | [LinkedIn](https://pt.linkedin.com/in/tvieiragoncalves)
+Telemóvel: (+351) 913008460 |[tvieiragoncalves@gmail.com](mailto:tvieiragoncalves@gmail.com) | [LinkedIn](https://pt.linkedin.com/in/tvieiragoncalves)
 
