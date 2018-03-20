@@ -34,7 +34,6 @@ Curso de Psico-oncologia
 • Formação em técnicas de estimulação cerebral não invasiva.
 • Workshops práticos sobre TMS, estimulação magnética transcranial
 
-[repository settings](https://github.com/tvieiragoncalves/teste/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## Prémios
 ```markdown
@@ -50,8 +49,8 @@ Para mais informaçes veja o meu [curriculum vitae](https://github.com/tvieirago
 
 
 ## Contacto
-
+Endereço:
 4250-015, Rua Adelaide Estrada No 182 5A Urbanização Cooperativa da Prelada, Porto ,Portugal
+
 Telemóvel: (+351) 913008460 | email :[tvieiragoncalves@gmail.com](mailto:tvieiragoncalves@gmail.com) | [LinkedIn](https://pt.linkedin.com/in/tvieiragoncalves)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
