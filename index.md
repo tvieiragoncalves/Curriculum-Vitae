@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 •Redacção de relatórios temáticos e breves formações em Matlab e Brainvoyager
 
 
-### Educação
+![Educação](https://image.flaticon.com/icons/svg/46/46955.svg "Educação")### Educação
 **Faculdade de Psicologia e Ciências da Educação (Universidade de Coimbra)**
 ![FPCEUC](https://www.uc.pt/identidadevisual/jpgcmyk/FPCEUC.jpg "FPCEUC")
 
