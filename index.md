@@ -13,6 +13,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 •Assistência e aplicação de técnicas de neuromodulação, nomeadamente TMS (estimulação magnética transcranial)
 •Redacção de relatórios temáticos e breves formações em Matlab e Brainvoyager
 
+
+### Educação
+**Faculdade de Psicologia e Ciências da Educação (Universidade de Coimbra) 
+
+Mestrado Integrado em Psicologia 
+• Intervenções Cognitivo Comportamentais nas Perturbações Psicológicas na Saúde
+
+**Liga Portuguesa Contra o Cancro- Núcleo Regional do Norte 
+
+Curso de Psico-oncologia 
+• Prevenção e Cancro; Adaptação à Doença Oncológica; Princípios Básicos de Psico-oncologia; Psicopatologia e Cancro; Psico-oncologia pediátrica; Eutanásia Distanásia e Testamento Vital; Doente Terminal e Cuidados Paliativos; Onco- sexologia
+•Duração de 16 horas presenciais 
+
+[repository settings](https://github.com/tvieiragoncalves/teste/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 ### Prémios
 ```markdown
 
@@ -25,10 +40,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tvieiragoncalves/teste/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contacto
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
