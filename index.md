@@ -52,5 +52,5 @@ Para mais informaçes veja o meu [curriculum vitae](https://github.com/tvieirago
 Endereço:
 4250-015, Rua Adelaide Estrada No 182 5A Urbanização Cooperativa da Prelada, Porto ,Portugal
 
-Telemóvel: (+351) 913008460 | email :[tvieiragoncalves@gmail.com](mailto:tvieiragoncalves@gmail.com) | [LinkedIn](https://pt.linkedin.com/in/tvieiragoncalves)
+Telemóvel: (+351) 913008460 | email : [tvieiragoncalves@gmail.com](mailto:tvieiragoncalves@gmail.com) | [LinkedIn](https://pt.linkedin.com/in/tvieiragoncalves)
 
