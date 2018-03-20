@@ -14,7 +14,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 •Redacção de relatórios temáticos e breves formações em Matlab e Brainvoyager
 
 
-![Educação](https://image.flaticon.com/icons/svg/46/46955.svg "Educação")### Educação
+
+## Educação
 **Faculdade de Psicologia e Ciências da Educação (Universidade de Coimbra)**
 ![FPCEUC](https://www.uc.pt/identidadevisual/jpgcmyk/FPCEUC.jpg "FPCEUC")
 
@@ -27,6 +28,11 @@ Curso de Psico-oncologia
 • Prevenção e Cancro; Adaptação à Doença Oncológica; Princípios Básicos de Psico-oncologia; Psicopatologia e Cancro; Psico-oncologia pediátrica; Eutanásia Distanásia e Testamento Vital; Doente Terminal e Cuidados Paliativos; Onco- sexologia
 •Duração de 16 horas presenciais 
 
+**UNIEC - HUC
+
+• Formação em técnicas de estimulação cerebral não invasiva.
+• Workshops práticos sobre TMS, estimulação magnética transcranial
+
 [repository settings](https://github.com/tvieiragoncalves/teste/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Prémios
@@ -36,10 +42,9 @@ Curso de Psico-oncologia
 **3 % melhores estudantes da Universidade de Coimbra - 2014-2015** [Link](https://www.uc.pt/academicos/premios_bolsas/3_melhores) and ![Image](https://www.uc.pt/identidadevisual/jpg/FPCEUC.jpg)
 
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para mais informaçes veja o meu [curriculum vitae](https://github.com/tvieiragoncalves/cvr/raw/gh-pages/resume_cv_tiago.pdf).
 
 
 
