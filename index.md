@@ -11,7 +11,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Research Assistant no Proaction Lab
 •Auxílio no desenvolvimento de uma investigação acerca da neuroplasticidade no cortex auditivo em surdos congénitos
 •Assistência e aplicação de técnicas de neuromodulação, nomeadamente TMS (estimulação magnética transcranial)
-•Redacção de relatórios temáticos e breves formações em Matlab e Brainvoyager
+•Redacção de relatórios temáticos e breves formações em Matlab e Brainvoyager.
+
 
 
 
@@ -22,13 +23,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Mestrado Integrado em Psicologia 
 • Intervenções Cognitivo Comportamentais nas Perturbações Psicológicas na Saúde
 
-**Liga Portuguesa Contra o Cancro- Núcleo Regional do Norte 
+**Liga Portuguesa Contra o Cancro- Núcleo Regional do Norte**
 
 Curso de Psico-oncologia 
 • Prevenção e Cancro; Adaptação à Doença Oncológica; Princípios Básicos de Psico-oncologia; Psicopatologia e Cancro; Psico-oncologia pediátrica; Eutanásia Distanásia e Testamento Vital; Doente Terminal e Cuidados Paliativos; Onco- sexologia
 •Duração de 16 horas presenciais 
 
-**UNIEC - HUC
+**UNIEC - HUC**
 
 • Formação em técnicas de estimulação cerebral não invasiva.
 • Workshops práticos sobre TMS, estimulação magnética transcranial
