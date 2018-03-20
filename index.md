@@ -2,7 +2,9 @@
 
 ### Psicólogo Estagiário na Liga Portuguesa Contra o Cancro - Núcleo Regional do Norte
 •Psicoterapia individual autónoma realizada junto de doentes oncológicos,sobreviventes e seus familiares
+
 •Colaboração assistencial, com psicólogos sénior, no seguimento de utentes do serviço
+
 •Redacção de relatórios de caso, histórias clínicas e formulações adaptadas aos casos seguidos 
 Para saber mais sobre a Liga e a Unidade de Psico-Oncologia, visite o [site](https://www.ligacontracancro.pt/) 
 
@@ -10,7 +12,9 @@ Para saber mais sobre a Liga e a Unidade de Psico-Oncologia, visite o [site](htt
 
 ### Research Assistant no Proaction Lab
 •Auxílio no desenvolvimento de uma investigação acerca da neuroplasticidade no cortex auditivo em surdos congénitos
+
 •Assistência e aplicação de técnicas de neuromodulação, nomeadamente TMS (estimulação magnética transcranial)
+
 •Redacção de relatórios temáticos e breves formações em Matlab e Brainvoyager.
 
 
@@ -20,8 +24,9 @@ Para saber mais sobre a Liga e a Unidade de Psico-Oncologia, visite o [site](htt
 **Faculdade de Psicologia e Ciências da Educação (Universidade de Coimbra)**
 ![FPCEUC](https://www.uc.pt/identidadevisual/jpgcmyk/FPCEUC.jpg "FPCEUC")
 
-Mestrado Integrado em Psicologia 
-• Intervenções Cognitivo Comportamentais nas Perturbações Psicológicas na Saúde
+Mestrado Integrado em Psicologia
+•Especialização em Intervenções Cognitivo Comportamentais nas Perturbações Psicológicas na Saúde - média final de 18 valores
+
 
 **Liga Portuguesa Contra o Cancro- Núcleo Regional do Norte**
 
