@@ -1,5 +1,4 @@
-## Experiência Profissional {% feed_meta %}
-
+## Experiência Profissional ______
 ### Psicólogo Estagiário na Liga Portuguesa Contra o Cancro - Núcleo Regional do Norte
 •Psicoterapia individual autónoma realizada junto de doentes oncológicos,sobreviventes e seus familiares
 
