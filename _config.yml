@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
- include: ["_site"] 
+ include: "_site"
